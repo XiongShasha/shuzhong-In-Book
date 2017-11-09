@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body a:link{
+    text-decoration: none;
+}
+.page-breadcrumb{
+    background-color: #209b60;
+    padding: 40px 0;
+}
+.page-breadcrumb h2{
+    color: white;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+.page-breadcrumb .breadcrumb{
+    background-color: transparent;
+    margin-bottom: 0;
+}
+.page-breadcrumb .breadcrumb li{
+    color: white;
+}
+.page-breadcrumb .breadcrumb li a{
+    color: white;
+    padding: 2px 10px;
+    border-radius: 3px;
+    display: block;
+    background-color: rgba(255,255,255,0.1);
+	text-decoration: none;
+    cursor: pointer;
+}
+.page-breadcrumb .breadcrumb li a:hover{
+    color: black;
+    background-color: rgba(255,255,255,0.7);
+}
+.space136{
+    height: 130px;
+}
+
+.form-group {
+    position: relative;
+}
+.form-group .form-control {
+    min-height: 45px;
+}
+.form-group .input-icon {
+    position: absolute;
+    display: block;
+    right: 0;
+    top: 0;
+    height: 45px;
+    width: 45px;
+    text-align: center;
+    line-height: 45px;
+    font-size: 20px;
+    color: #777;
+}
+.container .row .form-group a:hover{
+    color: #aeaeae!important;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.container .row .input-hover input:hover{
+    background-color: #17263e;
+    color: white;
+}
+.btn-skin{
+    background-color: #209b60;
+    color: white;
+}
+.a-color{
+    color: white!important;
+}
+.a-inline-block{
+    display: inline-block;
+}
+.footer{
+    background-color: #2C2C2A;
+    color: #eee;
+    text-align: center;
+    padding: 30px 0 0 0;
+}
+.margin-btm-30 {
+    margin-bottom: 30px;
+}
+#forgetPass{
+    cursor: pointer;
+}
+
